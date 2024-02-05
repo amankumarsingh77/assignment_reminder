@@ -1,0 +1,7 @@
+2024-02-03 09:38:38,752 - ERROR - Error occurred while retrieving assignments: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2024-02-03 09:38:50,629 - INFO - Email Sent
+2024-02-03 09:52:50,736 - INFO - Email Sent
+2024-02-05 14:17:56,122 - ERROR - Error occurred while retrieving assignments: Invalid return character or leading space in header: Cookie
+2024-02-05 14:18:23,266 - ERROR - Error occurred while retrieving assignments: Invalid return character or leading space in header: Cookie
+2024-02-05 14:19:36,834 - INFO - Email Sent
+2024-02-05 14:20:04,726 - INFO - Email Sent
