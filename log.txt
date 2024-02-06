@@ -5,3 +5,26 @@
 2024-02-05 14:18:23,266 - ERROR - Error occurred while retrieving assignments: Invalid return character or leading space in header: Cookie
 2024-02-05 14:19:36,834 - INFO - Email Sent
 2024-02-05 14:20:04,726 - INFO - Email Sent
+2024-02-05 14:26:56,564 - INFO - Program Initiated
+2024-02-06 08:16:47,874 - INFO - Program Initiated
+2024-02-06 08:16:50,463 - ERROR - Error occurred while retrieving assignments: 'list' object has no attribute 'encode'
+2024-02-06 08:16:56,166 - INFO - Program Initiated
+2024-02-06 08:16:58,458 - ERROR - Error occurred while retrieving assignments: 'list' object has no attribute 'encode'
+2024-02-06 09:40:31,921 - INFO - Program Initiated
+2024-02-06 09:40:34,499 - ERROR - Error occurred while retrieving assignments: 'list' object has no attribute 'encode'
+2024-02-06 09:41:28,386 - INFO - Program Initiated
+2024-02-06 09:41:31,815 - ERROR - Error occurred while retrieving assignments: 'list' object has no attribute 'encode'
+2024-02-06 09:45:24,260 - INFO - Program Initiated
+2024-02-06 09:45:29,446 - INFO - Email Sent
+2024-02-06 09:53:03,453 - INFO - Program Initiated
+2024-02-06 09:53:07,751 - INFO - Email Sent
+2024-02-06 09:54:37,346 - INFO - Program Initiated
+2024-02-06 09:55:20,727 - INFO - Program Initiated
+2024-02-06 09:55:25,308 - INFO - Email Sent
+2024-02-06 10:01:19,245 - INFO - Program Initiated
+2024-02-06 10:01:25,815 - INFO - Program Initiated
+2024-02-06 10:01:30,406 - INFO - Email Sent
+2024-02-06 10:08:13,544 - INFO - Program Initiated
+2024-02-06 10:08:14,559 - ERROR - Error occurred while retrieving assignments: can only join an iterable
+2024-02-06 10:09:14,643 - INFO - Program Initiated
+2024-02-06 10:09:18,928 - INFO - Email Sent
