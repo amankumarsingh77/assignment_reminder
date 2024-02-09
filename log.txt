@@ -28,3 +28,11 @@
 2024-02-06 10:08:14,559 - ERROR - Error occurred while retrieving assignments: can only join an iterable
 2024-02-06 10:09:14,643 - INFO - Program Initiated
 2024-02-06 10:09:18,928 - INFO - Email Sent
+2024-02-06 11:29:01,757 - INFO - Program Initiated
+2024-02-06 11:29:13,294 - INFO - Email Sent
+2024-02-09 13:15:55,320 - INFO - Program Initiated
+2024-02-09 13:16:00,388 - INFO - Email Sent
+2024-02-09 13:17:02,160 - INFO - Program Initiated
+2024-02-09 13:17:07,318 - INFO - Email Sent
+2024-02-09 13:21:21,616 - INFO - Program Initiated
+2024-02-09 13:21:32,199 - INFO - Email Sent
